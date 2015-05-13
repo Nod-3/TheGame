@@ -8,5 +8,5 @@ Cyber Warrior Studios
 
 
 *Devolopment team*
->SuperNode
->Mason
+>SuperNode (Director)
+>Mason (Co-Director)
