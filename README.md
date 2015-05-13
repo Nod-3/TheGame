@@ -10,6 +10,8 @@ Cyber Warrior Studios
 
 
 *Devolopment team*
->SuperNode (Director)
+>Chris White (Project Director)
 
->Mason (Co-Director)
+>Mason (Senior Programming Engineer)
+
+>Dan (Drafting Team Lead)
