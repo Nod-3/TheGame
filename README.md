@@ -1,5 +1,12 @@
-# TheGame #
+# TheGame
 Cyber Warrior Studios
 
->This is a product in development, all resources from the CW Studios are minimal to non-existant. 
+>The title of this videogame is currently under discussion from the devolopment team at CW.
+>Website devolopment is currently under discussion as well to display the progression of the project.
 >Please bear in mind this project is for entertainment purposes only.
+
+
+
+^Devolopment team
+>*SuperNode
+>*Mason
