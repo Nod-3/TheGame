@@ -7,6 +7,6 @@ Cyber Warrior Studios
 
 
 
-^Devolopment team
->*SuperNode
->*Mason
+*Devolopment team*
+>SuperNode
+>Mason
